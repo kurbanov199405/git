@@ -2,3 +2,7 @@ body {
     background-color: #2a9fcc;
     font: 16px/1.8 Georgia, Serif;
 }
+
+h1 {
+    color: red;
+}
